@@ -1,0 +1,15 @@
+/*
+* Authors: 
+* Heather Huynh
+*/
+
+div.landing {
+		background: url(.../img/grocerybackground.PNG) no-repeat center center;
+		-webkit-background-size: 	cover;
+		-moz-background-size: 		cover;
+		-o-background-size: 		cover;
+	background-size: 				cover;
+	min-height: 100%;
+	
+	font-size: 72pt;
+}
